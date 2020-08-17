@@ -1,7 +1,7 @@
 package Bank;
 
 import java.util.Scanner;
-
+//Main Class
 public class Main {
 	
 	double accNo, deposit, withdraw, currentBal = 0, futureBal, intAmt, totIntAmt;
